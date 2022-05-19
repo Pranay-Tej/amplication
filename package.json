@@ -22,6 +22,7 @@
     "setup:dev": "ts-node ./script/setup.ts"
   },
   "dependencies": {
+    "buffer": "4.9.2",
     "lerna": "4.0.0",
     "semver": "7.3.5",
     "winston": "3.3.4"
